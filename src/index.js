@@ -2,7 +2,7 @@
 var APP_ID = "amzn1.ask.skill.8331d54c-47d5-4ca8-a8dc-b7b2340ad828";  // TODO replace with your app ID (OPTIONAL).
 
 var ANSWER_COUNT = 3; // The number of possible answers per trivia question.
-var GAME_LENGTH = 5;  // The number of questions per trivia game.
+var GAME_LENGTH = 15;  // The number of questions per trivia game.
 var GAME_STATES = {
     TRIVIA: "_TRIVIAMODE", // Asking trivia questions.
     START: "_STARTMODE", // Entry point, start the game.
